@@ -1,56 +1,75 @@
-# Welcome to your Expo app 👋
+# GlowBook
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+### Your Beauty, Your Style, Your Booking.
 
-## Get started
+GlowBook is a beauty and personal care appointment booking application designed to connect users with beauty professionals. It makes discovering beauty services and booking appointments easier, more convenient and accessible.
 
-1. Install dependencies
+## About the Project
 
-   ```bash
-   npm install
-   ```
+GlowBook provides a platform where users can explore beauty services, discover beauty professionals and conveniently book appointments based on their preferences.
 
-2. Start the app
+The application aims to simplify the beauty appointment experience by bringing different beauty services together in one platform.
 
-   ```bash
-   npx expo start
-   ```
+## Key Features
 
-In the output, you'll find options to open the app in a
+- **User Authentication:** Sign-up and login functionality.
+- **User Dashboard:** A personalised space for users to navigate the application.
+- **Beauty Services:** Explore available beauty and personal care services.
+- **Appointment Booking:** Book appointments with beauty professionals.
+- **User Profile:** Manage personal account information.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Beauty Services
 
-You can start developing by editing the files inside the **src/app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+GlowBook is designed to accommodate services such as:
 
-## Get a fresh project
+- Makeup services
+- Hairstyling
+- Nail care
+- Skincare
+- Other beauty and personal care services
 
-When you're ready, run:
+## Technologies Used
+
+- React Native
+- TypeScript
+- Expo
+- JavaScript
+- CSS
+
+## Installation and Setup
+
+To run this project locally:
+
+1. Clone the repository.
 
 ```bash
-npm run reset-project
+git clone https://github.com/ikeesther832-bit/glowBook.git
 ```
 
-This command will move the starter code to the **example** directory and create a blank **src/app** directory where you can start developing.
+2. Navigate into the project directory.
 
-### Other setup steps
+```bash
+cd glowBook
+```
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+3. Install dependencies.
 
-## Learn more
+```bash
+npm install
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+4. Start the development server.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npx expo start
+```
 
-## Join the community
+## Project Status
 
-Join our community of developers creating universal apps.
+GlowBook is currently under development. New features and improvements are being implemented as development progresses.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Developer
+
+Developed as a personal software development project.
+
+**Project Name:** GlowBook
